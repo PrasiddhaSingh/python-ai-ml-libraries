@@ -34,6 +34,8 @@
 <img width="595" height="727" alt="image" src="https://github.com/user-attachments/assets/616453ee-00a0-475c-b84c-b1c035e9a918" />
 
 ---
+# These libraries together cover the entire AI lifecycle — data processing → model building → optimization → deployment → NLP & GenAI → production systems.
+---
 
 # Python AI Libraries
 
