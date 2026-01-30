@@ -32,7 +32,7 @@
 - 📊 **Matplotlib** 👉 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=python&logoColor=white) [🌐Official Website](https://matplotlib.org/)  [📘 Documentation](https://matplotlib.org/stable/users/index)
   
  
-- 🧮 **SciPy**👉 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) [🌐Official Website](https://scipy.org/)  [📘 Documentation](https://docs.scipy.org/doc/scipy/)
+- 🧮 **SciPy**👉 ![SciPy](https://img.shields.io/badge/SciPy-2962FF?style=for-the-badge&logo=scipy&logoColor=white) [🌐Official Website](https://scipy.org/)  [📘 Documentation](https://docs.scipy.org/doc/scipy/)
 
 
 - 📈 **Plotly** 👉 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) [🌐Official Website](https://plotly.com/)  [📘 Documentation](https://github.com/plotly/plotly.py)
