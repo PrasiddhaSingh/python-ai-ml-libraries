@@ -96,7 +96,7 @@
 
 ---
 
-# Deep Learning for Computer Vision Library
+# Deep Learning for Computer Vision Library (Industry-Grade CV Stack : OpenCV + PyTorch + TorchVision + YOLO + Albumentations + ONNX + TensorRT )
 
 ### 👁️‍🗨️ Core Computer Vision Libraries 
 
