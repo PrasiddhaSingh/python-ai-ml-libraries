@@ -96,6 +96,104 @@
 
 ---
 
+# Deep Learning for Computer Vision Library
+
+##👁️‍🗨️ Core Computer Vision Libraries 
+
+- OpenCV – Image processing, video analysis, classic CV
+
+- scikit-image – Scientific image processing (NumPy-based)
+
+- Pillow (PIL) – Basic image loading & manipulation
+
+- SimpleCV – Easy CV prototyping (built on OpenCV)
+
+## 🧠 Deep Learning–Based CV Libraries
+
+- Ultralytics YOLO (v5/v8/v11) – Real-time object detection & segmentation
+
+- Detectron2 – Facebook AI’s detection & segmentation framework
+
+- MMDetection – OpenMMLab object detection toolbox
+
+- MMCV / MMSegmentation – Detection + segmentation pipelines
+
+- TorchVision – CV models, datasets & transforms for PyTorch
+
+- KerasCV – High-level CV for TensorFlow/Keras
+
+- TF Object Detection API – Google’s production-grade detection
+
+## 🧩 Vision Pipelines & Classical + DL Hybrid
+
+- MediaPipe – Face, hand, pose, holistic tracking (Google)
+
+- Dlib – Face detection, landmarks, classical ML
+
+- OpenPose – Human pose estimation
+
+- DeepFace – Face recognition & verification
+
+- InsightFace – Face recognition at scale
+
+## 🖼️ Image Augmentation Libraries
+
+- Albumentations – Fast & powerful image augmentation
+
+- imgaug – Image augmentation for ML
+
+- AugLy – Meta’s multimodal augmentation toolkit
+
+## 🎥 Video & Streaming CV
+
+- FFmpeg – Video decoding, encoding, streaming
+
+- GStreamer – Media pipelines (real-time CV systems)
+
+- PyAV – Pythonic FFmpeg bindings
+
+## 🚀 High-Performance / GPU-Accelerated CV
+
+- NVIDIA CUDA – GPU acceleration
+
+- cuDNN – Deep learning primitives
+
+- TensorRT – Model optimization & inference
+
+- OpenVINO – Intel inference optimization
+
+- ONNX Runtime – Cross-framework inference
+
+- TVM – Deep learning compiler stack
+
+## 🧪 Research-Oriented CV Libraries
+
+- Kornia – Differentiable CV for PyTorch
+
+- EOPatch / EO-Learn – Earth observation & satellite CV
+
+- Lightly – Self-supervised learning for CV
+
+## 📷 3D Vision / Geometry / SLAM
+
+- Open3D – 3D data processing
+
+- PCL (Point Cloud Library) – Point cloud processing
+
+- COLMAP – Structure from motion
+
+- ORB-SLAM – Visual SLAM systems
+
+## 🤖 Robotics + Vision
+
+- ROS Vision Packages – CV in robotics
+
+- DepthAI – Embedded vision & edge AI
+
+- Isaac ROS – NVIDIA robotics CV stack
+
+
+---
 # Python AI Libraries
 
 A comprehensive Python AI/ML repository covering end-to-end workflows using TensorFlow, PyTorch, Keras, and Transformers for deep learning; NumPy and Pandas for data processing; Scikit-Learn for classical ML; XGBoost and LightGBM for high-performance tabular models; and spaCy for NLP pipelines.
